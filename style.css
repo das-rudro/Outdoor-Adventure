@@ -84,7 +84,7 @@
     cursor: pointer;
 }
 
-.top-button:hover button{
+.top-button button:hover{
     background: #020A10;
     color: white;
     transition: 0.6s;
@@ -133,7 +133,7 @@
     cursor: pointer;
 }
 
-.header-bottom-content-button:hover button{
+.header-bottom-content-button button:hover{
     background:#A51313;
     color: #020A10;
     transition: 0.6s;
